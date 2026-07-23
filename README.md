@@ -342,6 +342,6 @@ This project demonstrates a complete embedded machine-learning workflow:
 
 ## Acknowledgement
 
-We appreciate the following repos for their valuable code base or datasets:
+We appreciate the following repo for their valuable code base or dataset:
 
 https://github.com/kolithawarnakulasooriya/AI-driven-cyber-physical-system
