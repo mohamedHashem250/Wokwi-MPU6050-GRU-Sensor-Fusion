@@ -337,3 +337,11 @@ This project demonstrates a complete embedded machine-learning workflow:
 3. Deploy the model to a simulated Raspberry Pi Pico.
 4. Read real-time MPU6050 acceleration measurements.
 5. Predict fused acceleration and velocity for the X, Y, and Z axes.
+
+---
+
+## Acknowledgement
+
+We appreciate the following repos for their valuable code base or datasets:
+
+https://github.com/kolithawarnakulasooriya/AI-driven-cyber-physical-system
